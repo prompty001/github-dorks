@@ -1,1 +1,1 @@
-# github-dorks
+# Some Github Dorks for Bug Bounty :\)\)
